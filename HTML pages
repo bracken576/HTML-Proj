@@ -1,1 +1,18 @@
-<Title>C++ Inheritance Project</Title>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>C++ Inheritance Project</h1>
+
+<p>For an inheritance structure in C++ it is important
+to remember that it is not the same as it is in java, 
+where you need to have multiple classes or an IDE that
+will allow you to run multiple classes from the same file.
+You can easily run it from one file and should run it from 
+one file. Here is an example below:</p>
+<p>class animal(<br>  public:<br>int height;<br>int weight;<br>)</p>
+<p>class person: public animal(<br>  public:<br>std::string first;<br>std::string last;<br>)</p>
+
+
+</body>
+</html>
